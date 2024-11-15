@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Test_Programs\SeconSmallestArray\bin\Debug\SeconSmallestArray.exe.config
+C:\Users\Pooja S\source\repos\Test_Programs\SeconSmallestArray\bin\Debug\SeconSmallestArray.exe
+C:\Users\Pooja S\source\repos\Test_Programs\SeconSmallestArray\bin\Debug\SeconSmallestArray.pdb
+C:\Users\Pooja S\source\repos\Test_Programs\SeconSmallestArray\obj\Debug\SeconSmallestArray.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Test_Programs\SeconSmallestArray\obj\Debug\SeconSmallestArray.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Test_Programs\SeconSmallestArray\obj\Debug\SeconSmallestArray.exe
+C:\Users\Pooja S\source\repos\Test_Programs\SeconSmallestArray\obj\Debug\SeconSmallestArray.pdb
