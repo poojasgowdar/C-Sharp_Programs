@@ -45,6 +45,7 @@ namespace SeconSmallestArray
             Console.WriteLine("Second Smallest Element is:" + min2);
 
             Console.WriteLine(min2);
+            Console.WriteLine("Added new feature");
             Console.ReadLine();
         }
     }
